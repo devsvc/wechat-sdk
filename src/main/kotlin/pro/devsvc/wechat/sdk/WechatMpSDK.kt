@@ -30,7 +30,6 @@ class WechatMpSDK {
     private lateinit var appSecret: String
     private lateinit var accessToken: AccessToken
 
-
     constructor() {
 
     }
